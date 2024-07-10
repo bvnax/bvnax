@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bvnax
 - 👀 I’m interested in making life easy
 - 🌱 I’m currently learning computers
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/him
 
 <!---
 bvnax/bvnax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
